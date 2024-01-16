@@ -1,0 +1,6 @@
+# Тип данных (KEYWORD1)
+MCP4922_Dual	KEYWORD1
+
+# Методы и функции (KEYWORD2)
+SetA	KEYWORD2
+SetB	KEYWORD2
